@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Diana Vanessa Guaiña</h1>
-<h3 align="center">Tengo curiosidad por cómo una idea innovadora puede generar un impacto positivo en la vida de las personas. Mis primeros pasos en tecnología fueron en la universidad, y mi experiencia como voluntaria ha sido clave en mi desarrollo personal y profesional. Me emociona enfrentar desafíos que me permitan explotar mi creatividad y disfruto del proceso de aprender. Estoy emocionada por la posibilidad de seguir creciendo en este campo y contribuir al bienestar de la sociedad a través de la tecnología.</h3>
+<p align="center">Tengo curiosidad por cómo una idea innovadora puede generar un impacto positivo en la vida de las personas. Mis primeros pasos en tecnología fueron en la universidad, y mi experiencia como voluntaria ha sido clave en mi desarrollo personal y profesional. Me emociona enfrentar desafíos que me permitan explotar mi creatividad y disfruto del proceso de aprender. Estoy emocionada por la posibilidad de seguir creciendo en este campo y contribuir al bienestar de la sociedad a través de la tecnología.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
