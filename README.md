@@ -1,4 +1,4 @@
-[portada1](https://github.com/user-attachments/assets/b293cc1e-93fa-4a16-8062-377f6f743706)
+![Portada][portada1](https://github.com/user-attachments/assets/b293cc1e-93fa-4a16-8062-377f6f743706)
 
 <h1 align="center">Hola, soy Diana </h1>
 <p align="center">Tengo experiencia y conocimientos trabajando en diversos proyectos tecnológicos, utilizando lenguajes y frameworks de programación. Algunos proyectos incluyen una solución de formación de equipos y chatbot que realicé con Vite.js, un sitio de gestión de proyectos en Next.js. Además, realicé desafíos prácticos para mejorar mis habilidades en SQL, y abordé la codificación centrada en el negocio. Me encantaría sumarme a un equipo donde pueda seguir creando soluciones centradas en el usuario a través de la metodología Scrum.</p>
