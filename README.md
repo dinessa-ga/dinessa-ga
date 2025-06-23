@@ -83,7 +83,7 @@ const dinessa = {
 
 ---
 
-## 💼 Proyectos destacados
+<!-- ## 💼 Proyectos destacados
 
 <table>
 <tr>
@@ -138,16 +138,9 @@ const dinessa = {
 
 </td>
 </tr>
-</table>
-
----
+</table> -->
 
 
-<div align="center">
-  <img src="https://wakatime.com/share/@dinessa-ga/your-wakatime-id.svg" alt="Wakatime Stats"/>
-</div>
-
----
 
 ## 🌐 Conéctate Conmigo
 
@@ -193,7 +186,7 @@ const dinessa = {
 
 ---
 
-## 🤝 Colaboremos Juntos
+## 🤝 Colaboremos
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
