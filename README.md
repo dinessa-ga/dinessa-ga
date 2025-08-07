@@ -19,7 +19,7 @@
 
 
 
-💡 **Desarrolladora apasionada** por crear soluciones tecnológicas innovadoras con experiencia en diversos proyectos que van desde chatbots inteligentes hasta sistemas de gestión de proyectos completos.
+💡 **Desarrolladora** con experiencia en diversos proyectos que van desde chatbots inteligentes hasta sistemas de gestión de proyectos.
 
 🎯 **Especializada en:** Desarrollo Frontend, Metodologías Ágiles, y Diseño UX/UI
 
