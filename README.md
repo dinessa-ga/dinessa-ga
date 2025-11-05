@@ -209,7 +209,7 @@ const dinessa = {
 </div>
 
 <div align="center">
-  <em>Todos los caminos conducen a tecnología</em>
+  <em>Todos los caminos conducen a tecnología.</em>
   <br>
   <em>"No importa lo que suceda, siempre el ánimo mantendré"</em>
 </div>
