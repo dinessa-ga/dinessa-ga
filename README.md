@@ -167,14 +167,14 @@ const dinessa = {
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
-- [ ] 🚀 Contribuir a proyectos open source
-- [ ] 📚 Realizar proyecto sobre agentes RAG con LLM
+- [ ] 🚀 Contribuir a proyectos con responsabilidad ambiental y social.
+- [ ] 📚 Realizar proyecto sobre agentes RAG con LLM's.
 - [ ] 🎨 Especializarme en Marketing Digital para servicios tecnológicos
-- [ ] 🤝 Mentorear desarrolladores junior
-- [ ] 🏆 Posicionar mi comunidad tech - <a href="https://www.linkedin.com/company/somos-dev/">Somos Dev</a>
-- [ ] 💼 Liderar un equipo de desarrollo
+- [ ] 🤝 Mentorear desarrolladores junior para incrementar sus posibilidades de empleabilidad y emprendimiento.
+- [ ] 🏆 Optimizar el posicionamiento de mi comunidad tech - <a href="https://www.linkedin.com/company/somos-dev/">Somos Dev</a>
+- [ ] 💼 Liderar un equipo en marketing y desarrollo de software.
 
 ---
 
@@ -209,5 +209,7 @@ const dinessa = {
 </div>
 
 <div align="center">
-  <em>Desarrollado con ❤️ y muchas tazas de café ☕</em>
+  <em>Todos los caminos conducen a tecnología</em>
+  <br>
+  <em>"No importa lo que sucede, siempre el ánimo mantendré"</em>
 </div>
