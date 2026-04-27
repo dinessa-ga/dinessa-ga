@@ -148,10 +148,10 @@ const dinessa = {
   <a href="https://www.linkedin.com/in/diana-vanessa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-diana-vanessa-v1.vercel.app/#about" target="_blank">
+  <a href="https://diana-vanessa-1.vercel.app/dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:diana.vannesa.g@gmail.com">
+  <a href="mailto:dinessa.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
@@ -169,9 +169,9 @@ const dinessa = {
 
 ## 🎯 Objetivos 2026
 
-- [ ] 🚀 Contribuir a proyectos con responsabilidad ambiental y social.
+- [ ] 🚀 Contribuir a proyectos con responsabilidad educativa y social.
 - [ ] 📚 Realizar proyecto sobre agentes RAG con LLM's.
-- [ ] 🎨 Especializarme en Marketing Digital para servicios tecnológicos.
+- [ ] 🎨 Generar contenido para mi marca personal en Linkedin.
 - [ ] 🤝 Mentorear desarrolladores junior para incrementar sus posibilidades de empleabilidad y emprendimiento.
 - [ ] 🏆 Optimizar el posicionamiento de mi comunidad tech - <a href="https://www.linkedin.com/company/somos-dev/">Somos Dev</a>
 - [ ] 💼 Liderar un equipo en marketing y desarrollo de software.
@@ -197,7 +197,7 @@ const dinessa = {
 </div>
 
 <div align="center">
-  <a href="mailto:diana.vannesa.g@gmail.com">
+  <a href="mailto:dinessa.tech@gmail.com">
     <img src="https://img.shields.io/badge/Contáctame-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
   </a>
 </div>
