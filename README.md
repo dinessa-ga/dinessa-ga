@@ -31,9 +31,9 @@ const dinessa = {
     location: "🌎 Ecuador",
     languages: ["JavaScript", "TypeScript", "SQL", "Python"],
     frameworks: ["React", "Next.js", "Vite.js", "Node.js"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    databases: ["MySQL", "PostgreSQL"],
     tools: ["Git", "Docker", "Figma", "VS Code"],
-    methodology: "Scrum/Agile",
+    methodology: "Scrum",
     passion: "Crear soluciones centradas en el usuario",
     currentFocus: "Desarrollo Frontend y experiencias de usuario excepcionales",
     openToWork: true
@@ -161,7 +161,7 @@ const dinessa = {
 
 ## 💡 Filosofía de Desarrollo
 
-> "Un sitio web debe cumplir su propósito, ya sea proporcionar información, vender productos o facilitar la interacción con los usuarios. Un buen diseño web prioriza la usabilidad, la accesibilidad y una experiencia positiva para el usuario, haciendo posible conectarse incluso en lugares de baja conectividad, donde el diseño UI y el código para el renderizado marca más allá que una experiencia... "
+> "Un sitio web debe cumplir su propósito: proporcionar información, vender productos o facilitar la interacción con los usuarios. Un buen diseño web prioriza la usabilidad, la accesibilidad y una experiencia positiva para el usuario. Conecta incluso en lugares de baja conectividad, donde el diseño UI y el código para el renderizado significa acceso."
 > — Diana Vanessa
 
 
@@ -171,9 +171,9 @@ const dinessa = {
 
 - [ ] 🚀 Contribuir a proyectos con responsabilidad educativa y social.
 - [ ] 📚 Realizar proyecto sobre agentes RAG con LLM's.
-- [ ] 🎨 Generar contenido para mi marca personal en Linkedin.
+- [ ] 🎨 Generar contenido para mi marca personal.
 - [ ] 🤝 Mentorear desarrolladores junior para incrementar sus posibilidades de empleabilidad y emprendimiento.
-- [ ] 🏆 Optimizar el posicionamiento de mi comunidad tech - <a href="https://www.linkedin.com/company/somos-dev/">Somos Dev</a>
+- [ ] 🏆 Generar alianzas estratégicas de mi comunidad tech - <a href="https://www.linkedin.com/company/somos-dev/">Somos Dev</a>
 - [ ] 💼 Liderar un equipo en marketing y desarrollo de software.
 
 ---
