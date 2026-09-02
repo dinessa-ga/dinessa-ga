@@ -1,4 +1,4 @@
-# Hola, soy Diana Guaiña 👋
+# Hola, soy Diana 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Specialist;UI%2FUX+Enthusiast;Scrum+Practitioner" alt="Typing SVG" />
